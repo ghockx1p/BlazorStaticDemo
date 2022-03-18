@@ -1,0 +1,3 @@
+# BlazorStaticDemo
+
+PWA demo/training
